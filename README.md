@@ -1,2 +1,9 @@
 # ICTinTransport
 this is the project related to the ICT in transport system course in the Polytechnic University of Turin (Polito). We wrote some Javascript code to run on MongoDB, then we analyzed the results by using python code.
+
+The course, through theoretical lessons and practical works using real data and specific case studies, is focused at giving to the students a scientific approach to transport engineering with a special focus on ITS (Intelligent Transport Systems), helping them to acquire an integrated vision among transport and ICT. 
+After a first brief introduction on the concept of transport systems and transport planning, the monitoring methods of transport systems as well the data collection and the techniques to describe the system demand-supply both through mathematical models and demand-supply interaction models will be presented. 
+The main part of the course is focussed on the issues related to the implementation of sustainable transport systems and to the transport demand management, considering the interaction between transport and ICT as well the evaluation of the effects of ITS and new technologies on travel behaviour. 
+
+The course gives an overview of ITS, technological innovations and their applications to different transport modes. Then, the traveller information systems are presented with a main focus on the data needed to design them and a special attention to big and open data. Case studies and examples of applications will support the full understanding of the field.
+Students will be required to put into practice the lessons in exercises using ICT platforms for managing transport systems. Part of the course is devoted to the development of a case study where students are required to complete some comprehensive cases study related to the world of transport. 
